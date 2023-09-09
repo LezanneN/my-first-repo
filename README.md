@@ -2,4 +2,4 @@
 ------------
 [website van Zuyd](https://www.zuyd.nl)
 -----------
-! [foto] (img/foto.jpg)
+![foto](foto.jpg)
